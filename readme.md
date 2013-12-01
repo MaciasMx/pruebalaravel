@@ -19,3 +19,5 @@ Documentation for the entire framework can be found on the [Laravel website](htt
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+Tutorial para la creacion de un modulo de usuarios, basado en manual de Cristalab por @sileence
